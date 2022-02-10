@@ -14,6 +14,6 @@ I will be very glad if you invite me to play sports. My table tennis, badminton 
 
 Currently I am a yr1 PhD student in HKUST, both of my supervisors are of chemistry department. My interest is time series analysis of the Molecular dynamics (MD) trajectory, but I also helps on other projects in my group.
 
-I got my Bsc in Beijing Normal University in 2021, majoring in Physics.
+I got my Bsc in Beijing Normal University in 2021, majoring in Physics. My undergraduate research is under [Prof. Zuntao Fu](http://faculty.pku.edu.cn/fuzuntao/en/index.htm)'s supervison(if you like me pls click a like to Prof. Fu's homepage, he is such a warm professor, I learned a lot from him.)
 
 
