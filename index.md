@@ -4,6 +4,8 @@ Thx for coming to my website:) You can call me Ruichen or Racheal if Chinese is 
 
 ### About me
 
+![This is an image](https://i.ibb.co/Kxz0qFh/20220210142807.jpg)
+
 Cool but not that cool, most of the time in sunny but sometimes low mood. (Be careful my low mood is contagious)
 
 Yeah like most of the Chinese child, I learned to play piano at a very young age. Thanks to my mom's insist, now I have a very good taste in music and different kinds of art. Specially recommended here，*Chopin Ballades No. 1 in G minor, Op. 23* and the musical *Elisabeth*.
