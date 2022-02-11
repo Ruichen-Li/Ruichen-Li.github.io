@@ -6,10 +6,6 @@ Thx for coming to my website:) You can call me Ruichen or Racheal if Chinese is 
 
 ![This is an image](https://i.ibb.co/Kxz0qFh/20220210142807.jpg)
 
-:house: : Jiangxi :round_pushpin: : Hong Kong
-
-:camera: :computer: :bicyclist: :swimmer: :tennis: :art: :musical_keyboard: :coffee: :fork_and_knife: 
-
 Cool but not that cool, most of the time in sunny but sometimes low mood. (Be careful my low mood is contagious)
 
 Yeah like most of the Chinese children, I learned to play piano at a very young age. Thanks to my mom's insist, now I have a very good taste in music and different kinds of art. Specially recommended here，*Chopin Ballades No. 1 in G minor, Op. 23* and the musical *Elisabeth*.
@@ -22,7 +18,7 @@ Currently I am a yr1 PhD student in HKUST, both of my supervisors are of chemist
 
 I got my Bsc in Beijing Normal University in 2021, majoring in Physics. My undergraduate research is under [Prof. Zuntao Fu](http://faculty.pku.edu.cn/fuzuntao/en/index.htm)'s supervison(if you like me pls click a like to Prof. Fu's homepage, he is such a warm professor, I learned a lot from him). At that time I focused on the nonlinear strength of time series based on phase correlation and the overestimated temporal irreversibility in NCEP reanalysis database. 
 
-Paper here:point_right: **Li, R.**, Huang, Y., Xie, F. & Fu, Z. Discrepancies in surface temperature between NCEP reanalysis data and station observations over China and their implications. *Atmospheric and Oceanic Science Letters 14, 100008 (2021)*.[Online](https://doi.org/10.1016/j.aosl.2020.100008)
+Paper here: **Li, R.**, Huang, Y., Xie, F. & Fu, Z. Discrepancies in surface temperature between NCEP reanalysis data and station observations over China and their implications. *Atmospheric and Oceanic Science Letters 14, 100008 (2021)*.[Online](https://doi.org/10.1016/j.aosl.2020.100008)
 
 My final year project is under [Prof. Fengjie Ma](http://virphysics.bnu.edu.cn/web/application/faculty/mafengjie/index.htm)'s supervison, the thesis is about high-throughput screening for materials with specific structure groups. By that time I already decided to join HKUST to do some material related physics, so this project is a try.
 
