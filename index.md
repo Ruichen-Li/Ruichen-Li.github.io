@@ -14,7 +14,7 @@ I will be very glad if you invite me to play sports. My table tennis, badminton 
 
 ### About my research
 
-Currently I am a yr1 PhD student in HKUST, both of my supervisors are of chemistry department. My interest is time series analysis of the Molecular dynamics (MD) trajectory, but I also helps on other projects in my group.
+Currently I am a yr1 PhD student in [HKUST](https://hkust.edu.hk/), both of my supervisors are of chemistry department. My interest is time series analysis of the Molecular dynamics (MD) trajectory, but I also helps on other projects in my group.
 
 I proudly received my B.Sc. degree in physics from [Beijing Normal University](https://english.bnu.edu.cn/) in 2021. My undergraduate research is under [Prof. Zuntao Fu](http://faculty.pku.edu.cn/fuzuntao/en/index.htm)'s supervison(if you like me pls click a like to Prof. Fu's homepage, he is such a warm professor, I learned a lot from him). At that time I focused on the nonlinear strength of time series based on phase correlation and the overestimated temporal irreversibility in NCEP reanalysis database. 
 
